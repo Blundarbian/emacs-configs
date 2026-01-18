@@ -1,7 +1,7 @@
 # emacs-configs
 emacs init file, fonts, and dashboard images
 
-init lite: stupid simple config using built-in emacs features instead of external packages
+init lite: stupid simple dependency free emacs config
 
 init heavy: doom line, dashboard, themes, fonts, org stars
 
