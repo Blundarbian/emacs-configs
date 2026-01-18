@@ -1,4 +1,5 @@
 # emacs-configs
 emacs init file, fonts, and dashboard images
 
-This init file was created for emacs 30
+both init files are designed for emacs 30 or newer,
+but most features (fido, eglot) should work in emcas ~29
