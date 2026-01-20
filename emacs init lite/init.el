@@ -20,4 +20,3 @@
 (add-hook 'python-mode-hook #'eglot-ensure)
 (add-hook 'java-mode-hook #'eglot-ensure)
 (setq eglot-autoshutdown t)
-
